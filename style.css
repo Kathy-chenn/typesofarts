@@ -1,0 +1,68 @@
+body {
+width: 800px;
+margin: 100px 200px;
+background-color: #d1e6d3;
+font-family: fantasy;
+}
+
+
+img {
+height: 200px;
+}
+
+
+table {
+	font-size: 30px;
+	display: inline-flex;
+}
+
+
+table, td, th {
+
+border: 1px solid;
+
+}
+
+
+th {
+
+color: #ba5b93;
+background-color: #f7d7ea;
+
+}
+
+
+nav {
+background-color: #f7e6f0;
+font-size: 30px;
+}
+
+
+a {
+color: darkgreen;
+
+}
+
+
+a:hover {
+
+color: lightpink;
+}
+
+
+h1 {
+background-color: white;
+color: #914371;
+}
+
+
+h2 {
+
+color: #ad5589;
+}
+
+
+p {
+
+color: #ba5b93;
+}
